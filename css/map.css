@@ -1,0 +1,29 @@
+/* MAP */
+main {
+  background-color: #ffffff;
+  margin-bottom: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column nowrap;
+}
+#map {
+  margin-top: 5.8vh;
+  height: 70vh;
+  width: 100%;
+}
+button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #0056b3;
+}
+#location,
+#restaurant {
+  margin-bottom: 2rem;
+}
+

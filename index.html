@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="App para doações beneficentes, passando adiante o amor e caridade." />
+  <meta name="theme-color" content="#d36f0b" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  <meta name="apple-mobile-web-app-title" content="PWA Teste" />
+  <meta name="msapplication-TileImage" content="./AppIcons/144.png" />
+  <meta name="msapplication-TileColor" content="#d36f0b" />
+
+  <link rel="shortcut icon" sizes="192x192" href="./AppIcons/192.png" />
+  <link rel="shortcut icon" sizes="128x128" href="./AppIcons/128.png" />
+
+  <!--Icons-->
+  <!-- iOS icons -->
+  <link rel="apple-touch-icon" sizes="57x57" href="./AppIcons/57.png" />
+  <link rel="apple-touch-icon" sizes="60x60" href="./AppIcons/60.png" />
+  <link rel="apple-touch-icon" sizes="72x72" href="./AppIcons/72.png" />
+  <link rel="apple-touch-icon" sizes="76x76" href="./AppIcons/76.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="./AppIcons/114.png" />
+  <link rel="apple-touch-icon" sizes="120x120" href="./AppIcons/120.png" />
+  <link rel="apple-touch-icon" sizes="144x144" href="./AppIcons/144.png" />
+  <link rel="apple-touch-icon" sizes="152x152" href="./AppIcons/152.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="./AppIcons/180.png" />
+
+  <!-- Android icons -->
+  <link rel="icon" type="image/png" sizes="16x16" href="./AppIcons/16.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="./AppIcons/32.png" />
+  <link rel="icon" type="image/png" sizes="100x100" href="./AppIcons/100.png" />
+  <link rel="icon" type="image/png" sizes="144x144" href="./AppIcons/144.png" />
+  <link rel="icon" type="image/png" sizes="192x192" href="./AppIcons/192.png" />
+  <!-- //Icons-->
+
+  <link rel="manifest" href="./manifest.json" />
+
+  <link rel="stylesheet" type="text/css" href="./css/standard.css" />
+  <link rel="stylesheet" type="text/css" href="./css/index.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@800&family=Roboto:wght@300;400&display=swap"
+    rel="stylesheet" />
+
+  <title>Share Heart</title>
+</head>
+
+<body>
+  <header>
+    <div class="logo_menu_zone">
+      <div class="logo_zone">
+        <a href="index.html" id="site_title"><img src="imgs/shareHeartLogo.png" alt="Logo do app ShareHeart"></a>
+      </div>
+
+      <div class="header_menu_zone">
+        <a href="about.html">Quem Somos</a>
+        <a href="campaigns.html">Campanhas</a>
+        <a href="institutions.html">Instituições</a>
+      </div>
+
+      <div class="collapse_menu_zone">
+        <button class="button_collapse_menu" id="button_collapse_menu">
+          ☰
+        </button>
+      </div>
+    </div>
+
+    <div class="menu_collapse" id="menu_collapse">
+      <a href="about.html">Quem Somos</a>
+      <a href="campaigns.html">Campanhas</a>
+      <a href="institutions.html">Instituições</a>
+    </div>
+  </header>
+
+  <main>
+    <div class="buttons-container">
+      <section class="index_sections campaigns_zone">
+       <h1>Campanhas</h1>
+       <div>
+        <img class="campaings__img" alt="" />
+        <p class="campaings__legenda"></p>
+      </div>
+      <div>
+        <img class="campaings__img" alt="" />
+        <p class="campaings__legenda"></p>
+      </div>
+      <div>
+        <img class="campaings__img" alt="" />
+        <p class="campaings__legenda"></p>
+      </div>
+      <div>
+        <img class="campaings__img" alt="" />
+        <p class="campaings__legenda"></p>
+      </div>
+      <div>
+        <img class="campaings__img" alt="" />
+        <p class="campaings__legenda"></p>
+       </div>
+         
+    </section>
+
+    <section class="index_sections institutions_zone">
+      <h1>Instituições</h1>
+      <div>
+        <img class="institutions__img" alt="" />
+        <p class="institutions__legenda"></p>
+      </div>
+      <div>
+        <img class="institutions__img" alt="" />
+        <p class="institutions__legenda"></p>
+      </div>
+      <div>
+        <img class="institutions__img" alt="" />
+        <p class="institutions__legenda"></p>
+      </div>
+      <div>
+        <img class="institutions__img" alt="" />
+        <p class="institutions__legenda"></p>
+      </div>
+      <div>
+        <img class="institutions__img" alt="" />
+        <p class="institutions__legenda"></p>
+      </div>
+    </div>  
+    </section>
+
+    <section class="index_sections map_redirect_zone">
+      <p>Verifique as Instituições mais próximas de você!</p>
+      <a id="button_to_map" class="button_to_map" href="map.html"><img src="imgs/map.png" alt="Icone de mapa"></a>
+    </section>
+  </main>
+
+  <footer>
+    <div class="footer-container">
+      <div class="footer-icon">
+        <a href="campaigns.html"><img src="imgs/box.svg" alt="Icone de campanhas de doação"></a>
+      </div>
+      <div class="footer-icon">
+        <a href="index.html"><img src="imgs/home.svg" alt="Icone para a página inicial"></a>
+      </div>
+      <div class="footer-icon">
+        <a href="institutions.html"><img src="imgs/institution.png" alt="Icone para as instituições"></a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="./js/standard.js"></script>
+  <script>
+    let newWorker;
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("./service-worker.js").then((reg) => {
+        reg.addEventListener("updatefound", () => {
+          newWorker = reg.installing;
+        });
+      });
+      let refreshing;
+      navigator.serviceWorker.addEventListener(
+        "controllerchange",
+        function () {
+          if (refreshing) return;
+          window.location.reload();
+          refreshing = true;
+        }
+      );
+    }
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,124 @@
+{
+    "institutions": [
+        {
+            "name": "Academia para o Desenvolvimento da Educação Brasil",
+            "description": "ONG responsável por promover capacitações para trabalho, defesa dos direitos socioassistenciais e mobiliazação pela educação.",
+            "address": "Av. Barbosa Lima - 149 - Bairo do Recife",
+            "phone": "81 3424 2070",
+            "latitude": -8.061941635948179,
+            "longitude": -34.872561149372544
+        },
+        {
+            "name": "Associação Arte e Vida",
+            "description": "Acompanhamento de crianças e adolescentes em situação de risco por meio da promoção de complemento às atividades escolares com aulas de dança, literatura, artes plásticas e jogos educativos.",
+            "address": "Rua Madre de Deus - 66 - Bairro do Recife",
+            "phone": "81 3424 2765",
+            "latitude": -8.064922397004764,
+            "longitude": -34.87334425894304
+        },
+        {
+            "name": "Associação Beneficente Filhas de Santana",
+            "description": "Promove assistência para idosos, pessoas com deficiência e pessoas em condição de rua. Oferece assitência jurídica aos menos favorecido e às vítimas da violência doméstica.",
+            "address": "Rua Dr. José Maria - 1096 - Rosarinho",
+            "phone": "81 3441 3934",
+            "latitude": -8.034312747181934,
+            "longitude": -34.901202577910254
+        },
+        {
+            "name": "Círculo do Coração de Pernambuco",
+            "description": "Organização não governamental de apoio à criança cardiopata e seus familiares.",
+            "address": "Rua Nossa Senhora da Glória - 203 - Campo Grande",
+            "phone": "81 98129 8136",
+            "latitude": -8.033883129323511,
+            "longitude": -34.87820813558206
+        },
+        {
+            "name": "Associação Da 3ª Idade Da Vila São Miguel",
+            "description": "Lar para idosos.",
+            "address": "Rua General Carlos Lira - 30 - Afogados",
+            "phone": "81 3448 0350",
+            "latitude": -8.0798366645665,
+            "longitude": -34.91062370859743
+        },
+        {
+            "name": "Associaçãode de Parkinson de Pernambuco",
+            "description": "Instituição sem fins lucrativos, criada em 2001 que, através de serviços e informações acerca da doença de Parkinson, visa contribuir diretamente para a melhoria da qualidade de vida de seus associados.",
+            "address": "Av. Caxangá - 2200 - Cordeiro",
+            "phone": "81 3424 2710",
+            "latitude": -8.046472077868632,
+            "longitude": -34.926947093253844
+        },
+        {
+            "name": "Anjos do Poço",
+            "description": "Instituição sem fins lucrativos que abriga cães abandonados, oferece suporte veterinário e promoove adoção animal.",
+            "address": "Rua Virgílio de Oliveira - 255 - Poço da Panela",
+            "phone": "81 98229 5333",
+            "latitude": -8.037620389827598,
+            "longitude": -34.92303615092564
+        },
+        {
+            "name": "Associação Casa do Amor",
+            "description": "Lar para idosas, promove atividades recreativas, acompanhamento de saúde.",
+            "address": "Rua Ramiz Galvão - 218 - Arruda",
+            "phone": "81 3426 6974",
+            "latitude": -8.02503501277099,
+            "longitude": -34.89549249325384
+        },
+        {
+            "name": "Associação Projeto Casa Da Criança",
+            "description": "Promove reforma de abrigos e creches para as crianças, reforma áreas infantis em hospitais para o tratamento de câncer infanto juvenil.",
+            "address": "Rua Raul Lafayette - 191 - Boa Viagem",
+            "phone": "81 3467 9968",
+            "latitude": -8.122240207594238,
+            "longitude": -34.901075522089734
+        },
+        {
+            "name": "Instituição Filhas de Maria Servas da Caridade",
+            "description": "Promove serviçõs sociais de apoio à saúde.",
+            "address": "Rua José de Alencar - 611 - Boa Vista",
+            "phone": "81 3221 0934",
+            "latitude": -8.063648424526296,
+            "longitude": -34.890396606746144
+        },
+        {
+            "name": "Lar do Nenen",
+            "description": "ONG que acolhe, temporariamente, meninos e meninas de 0 a 3 anos, em situação de grave risco social ou abandono, promovendo sua proteção integral, facilitando sua reintegração familiar e comunitária, ou quando inviável, sua colocação, por adoção, em família substituta.",
+            "address": "Rua Menezes Drumond - 284 - Madalena",
+            "phone": "81 98877 3729",
+            "latitude": -8.050538172653864,
+            "longitude": -34.91078795092563
+        },
+        {
+            "name": "NACC - Núcleo de Apoio à Criança com Câncer",
+            "description": "Oferece suporte aos serviços de oncologia pediátrica do Recife através de apoio às crianças e adolescentes em tratamento na cidade e seus familiares.",
+            "address": "Rua do Futuro - 855 - Graças",
+            "phone": "81 3267 9200",
+            "latitude": -8.038083490039801,
+            "longitude": -34.902505637433336
+        },
+        {
+            "name": "Instituição de Caridade Lar Paulo de Tarso",
+            "description": "Acolhe de forma integral crianças e adolescentes em situação de risco social de alta complexidade.",
+            "address": "Rua Jerônimo Heráclito - 479 - Ipsep",
+            "phone": "81 3471 0919 ",
+            "latitude": -8.109090222719505,
+            "longitude": -34.92381166441795
+        },
+        {
+            "name": "Grupo de Ajuda à Criança Carente com Câncer de Pernambuco (GAC-PE)",
+            "description": "Prestação de assistência social humanizada às crianças, adolescentes e jovens com câncer em tratamento no Centro de OncoHematologia Pediátrica.",
+            "address": "Rua Dr. Otávio Coutinho - 310 - Santo Amaro",
+            "phone": "81 99742 2100",
+            "latitude": -8.0464812474827,
+            "longitude": -34.886646922089746
+        },
+        {
+            "name": "AACD - Associação de Assistência à Criança Deficiente",
+            "description": "Realiza consultas médicas, exames de imagem, cirurgias, terapias e a fabricação de produtos ortopédicos sob medida. Com o objetivo de estimular a reintegração das pessoas com deficiência física à sociedade, também são promovidas ações de inclusão social.",
+            "address": "Av. Advogado José Paulo Cavalcanti - 155 - Ilha Joana Bezerra",
+            "phone": "81 3419 4000",
+            "latitude": -8.071789450961326,
+            "longitude": -34.893094589846704
+        }
+    ]
+}

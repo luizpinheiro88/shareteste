@@ -1,0 +1,31 @@
+{
+    "campaigns": [
+        {
+            "name": "AAAAAAAAAAAAAAAA",
+            "description": "aaaaaa aaaaaaa.",
+            "address": "aaaaaaaaaaa",
+            "phone": "81 3333 4444",
+            "institution": "AAAAAAAAAAAA",
+            "latitude": -8.061941635948179,
+            "longitude": -34.872561149372544
+        },
+        {
+            "name": "BBBBBBBBBBBBB",
+            "description": "bbbbbbb bbbbbbb bbbbbbbbbbbbb bbb bbbbbbb.",
+            "address": "bbbbbbbbbbbbb",
+            "phone": "81 3333 5555",
+            "institution": "BBBBBBB BBBBB",
+            "latitude": -8.064922397004764,
+            "longitude": -34.87334425894304
+        },
+        {
+            "name": "CCCCCCCCCCCC",
+            "description": "ccccccccccccccc.",
+            "address": "ccccccccccccccccc ccccccccccc",
+            "phone": "81 3333 6666",
+            "institution": "CCCCCC CCCCCCCCCCC CCCCCCCCCC",
+            "latitude": -8.034312747181934,
+            "longitude": -34.901202577910254
+        }
+    ]
+}

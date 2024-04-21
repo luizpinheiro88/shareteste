@@ -1,0 +1,26 @@
+/* INSTITUIÇÕES */
+main {
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.list_content {
+    padding: 50px 0 50px 0;
+    width: 100%;
+}
+ul {
+    width: 100%;
+    list-style-type: none;
+}
+li {
+    background-color: #b8f8f2;
+    margin: 10px 10px 20px 10px;
+    padding: 10px;
+    box-shadow: 3px 3px 3px grey;
+}
+a:link {
+    color: black;
+}
